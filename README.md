@@ -46,7 +46,26 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-/* write all the steps invloved */
+
+Step 1:
+Create a new file in quartus II.
+
+Step 2:
+Module Declaration. Module should have the file name.
+
+Step 3:
+Use begin declaration to define the functionality of logic circuits.
+
+Step 4:
+Within begin use if and else statements.
+
+Step 5:
+At the end give endmodule.
+
+Step 6:
+Run the program and choose RTL viewer to get RTL realization.
+
+
 
 
 
