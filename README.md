@@ -107,10 +107,12 @@ endmodule
 ### TRUTH TABLE 
 
 
-![github]()
-![github]()
+![github](u5.png)
+![github](u6.png)
 
 
 
 
 ### RESULTS 
+
+Implementation of 4 bit up and down counters and validate functionality is sucesfully executed.
